@@ -7,4 +7,6 @@ RUN npm i
 COPY src src
 COPY public public
 
-CMD npm start
+EXPOSE 3000
+
+CMD ["npm", "run", "dev"]

@@ -1,3 +1,3 @@
 # Getting Started App
 
-### In your terminal enter `docker compose -f docker-compose.dev.yml up --build` for start application !
+### In your terminal enter `npm run dev` for start application !
